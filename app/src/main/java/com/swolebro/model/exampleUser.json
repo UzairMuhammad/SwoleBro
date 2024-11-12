@@ -1,0 +1,349 @@
+
+    {
+      "username": "JasonAmir",
+      "streak":3,
+      "workouts": [
+        {
+          "name": "Chest & Legs",
+          "date": "2024-02-12",
+          "exercises": [
+            {
+              "type": "strength",
+              "name": "bench press",
+              "bodypart": "chest",
+              "sets": 5,
+              "reps": 5,
+              "weight": 135
+            },
+            {
+              "type": "strength",
+              "name": "leg press",
+              "bodypart": "quads",
+              "sets": 3,
+              "reps": 15,
+              "weight": 135
+            },
+            {
+              "type": "cardio",
+              "name": "running",
+              "sets": 3,
+              "duration_seconds": 1800
+            },
+            {
+              "type": "weights",
+              "name": "bicep curls",
+              "bodypart": "biceps",
+              "sets": 4,
+              "reps": 12,
+              "weight": 30
+            },
+            {
+              "type": "distance_duration",
+              "name": "cycling",
+              "bodypart": null,
+              "sets": 3,
+              "distance_miles": 10,
+              "duration_minutes": 45
+            },
+            {
+              "type": "duration_only",
+              "name": "plank",
+              "bodypart": "core",
+              "sets": 3,
+              "duration_seconds": 60
+            },
+            {
+              "type": "reps_only",
+              "name": "push-ups",
+              "bodypart": "chest",
+              "sets": 4,
+              "reps": 20
+            },
+            {
+              "type": "stretch",
+              "name": "hamstring stretch",
+              "bodypart": "legs",
+              "sets": 2,
+              "duration_seconds": 30
+            }
+          ]
+        },
+        {
+          "name": "John Cena Back Workout",
+          "date": "2024-02-14",
+          "exercises": [
+            {
+              "type": "strength",
+              "name": "pull ups",
+              "bodypart": "back",
+              "sets": 4,
+              "reps": 10,
+              "weight": null
+            },
+            {
+              "type": "strength",
+              "name": "lat pulldown",
+              "bodypart": "back",
+              "sets": 3,
+              "reps": 12,
+              "weight": 120
+            },
+            {
+              "type": "strength",
+              "name": "reverse flies",
+              "bodypart": "back",
+              "sets": 3,
+              "reps": 15,
+              "weight": 20
+            },
+            {
+              "type": "strength",
+              "name": "bicep curls",
+              "bodypart": "biceps",
+              "sets": 4,
+              "reps": 8,
+              "weight": 40
+            },
+            {
+              "type": "distance_duration",
+              "name": "rowing",
+              "bodypart": null,
+              "sets": 3,
+              "distance_miles": 5,
+              "duration_minutes": 30
+            },
+            {
+              "type": "duration_only",
+              "name": "plank",
+              "bodypart": "core",
+              "sets": 3,
+              "duration_seconds": 60
+            },
+            {
+              "type": "reps_only",
+              "name": "chin-ups",
+              "bodypart": "back",
+              "sets": 4,
+              "reps": 15
+            },
+            {
+              "type": "stretch",
+              "name": "cat-cow stretch",
+              "bodypart": "back",
+              "sets": 2,
+              "duration_seconds": 45
+            }
+          ]
+        },
+        {
+          "name": "Full Body",
+          "date": "2024-02-15",
+          "exercises": [
+            {
+              "type": "strength",
+              "name": "overhead press",
+              "bodypart": "shoulders",
+              "sets": 4,
+              "reps": 8,
+              "weight": 95
+            },
+            {
+              "type": "strength",
+              "name": "deadlifts",
+              "bodypart": "lower back",
+              "sets": 3,
+              "reps": 10,
+              "weight": 185
+            },
+            {
+              "type": "strength",
+              "name": "lunges",
+              "bodypart": "legs",
+              "sets": 3,
+              "reps": 12,
+              "weight": 115
+            },
+            {
+              "type": "cardio",
+              "name": "jumping jacks",
+              "sets": 3,
+              "duration_seconds": 900
+            },
+            {
+              "type": "weights",
+              "name": "tricep dips",
+              "bodypart": "triceps",
+              "sets": 3,
+              "reps": 15,
+              "weight": null
+            },
+            {
+              "type": "distance_duration",
+              "name": "running",
+              "bodypart": null,
+              "sets": 2,
+              "distance_miles": 3,
+              "duration_minutes": 20
+            },
+            {
+              "type": "duration_only",
+              "name": "plank",
+              "bodypart": "core",
+              "sets": 3,
+              "duration_seconds": 45
+            },
+            {
+              "type": "reps_only",
+              "name": "box jumps",
+              "bodypart": "legs",
+              "sets": 4,
+              "reps": 10
+            },
+            {
+              "type": "stretch",
+              "name": "quad stretch",
+              "bodypart": "legs",
+              "sets": 2,
+              "duration_seconds": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "username": "MelindaNurmagomedov",
+      "workouts": [
+        {
+          "name": "Insanity",
+          "date": "2024-02-12",
+          "exercises": [
+            {
+              "type": "strength",
+              "name": "deadlifts",
+              "bodypart": "lower back",
+              "sets": 4,
+              "reps": 8,
+              "weight": 185
+            },
+            {
+              "type": "strength",
+              "name": "squats",
+              "bodypart": "legs",
+              "sets": 3,
+              "reps": 12,
+              "weight": 155
+            },
+            {
+              "type": "cardio",
+              "name": "jump rope",
+              "sets": 3,
+              "duration_seconds": 1500
+            },
+            {
+              "type": "weights",
+              "name": "hammer curls",
+              "bodypart": "biceps",
+              "sets": 4,
+              "reps": 12,
+              "weight": 25
+            },
+            {
+              "type": "distance_duration",
+              "name": "running",
+              "bodypart": null,
+              "sets": 2,
+              "distance_meters": 5000,
+              "duration_minutes": 30
+            },
+            {
+              "type": "duration_only",
+              "name": "side plank",
+              "bodypart": "core",
+              "sets": 3,
+              "duration_seconds": 45
+            },
+            {
+              "type": "reps_only",
+              "name": "push-ups",
+              "bodypart": "chest",
+              "sets": 4,
+              "reps": 20
+            },
+            {
+              "type": "stretch",
+              "name": "hip flexor stretch",
+              "bodypart": "legs",
+              "sets": 2,
+              "duration_seconds": 30
+            }
+          ]
+        },
+        {
+          "name": "Tree Trunk Core",
+          "date": "2024-02-14",
+          "exercises": [
+            {
+              "type": "strength",
+              "name": "planks",
+              "bodypart": "core",
+              "sets": 5,
+              "duration_seconds": 45,
+              "weight": null
+            },
+            {
+              "type": "strength",
+              "name": "Russian twists",
+              "bodypart": "obliques",
+              "sets": 3,
+              "reps": 20,
+              "weight": null
+            },
+            {
+              "type": "strength",
+              "name": "leg raises",
+              "bodypart": "lower abs",
+              "sets": 3,
+              "reps": 15,
+              "weight": null
+            },
+            {
+              "type": "weights",
+              "name": "tricep dips",
+              "bodypart": "triceps",
+              "sets": 3,
+              "reps": 15,
+              "weight": null
+            },
+            {
+              "type": "distance_duration",
+              "name": "cycling",
+              "bodypart": null,
+              "sets": 3,
+              "distance_miles": 15,
+              "duration_minutes": 60
+            },
+            {
+              "type": "duration_only",
+              "name": "side plank",
+              "bodypart": "core",
+              "sets": 3,
+              "duration_seconds": 60
+            },
+            {
+              "type": "reps_only",
+              "name": "chin-ups",
+              "bodypart": "back",
+              "sets": 4,
+              "reps": 15
+            },
+            {
+              "type": "stretch",
+              "name": "calf stretch",
+              "bodypart": "legs",
+              "sets": 2,
+              "duration_seconds": 45
+            }
+          ]
+        }
+      ]
+    }

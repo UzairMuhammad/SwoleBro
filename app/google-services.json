@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036351117439",
+    "project_id": "swolebro-2a957",
+    "storage_bucket": "swolebro-2a957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036351117439:android:c755db5e15a2be5c71c74a",
+        "android_client_info": {
+          "package_name": "com.swolebro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036351117439-6jo2qi5qhoejb703k1d3g9cfnpfnppam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swolebro",
+            "certificate_hash": "9eaedaee274b1e0ef3586c0cc097973e7ba799a6"
+          }
+        },
+        {
+          "client_id": "1036351117439-4au2lo5f82dco49bj7m168omhauhn6ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZufOTKgCQbt6Zn25aV-NJIn-xKU4f7tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036351117439-4au2lo5f82dco49bj7m168omhauhn6ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

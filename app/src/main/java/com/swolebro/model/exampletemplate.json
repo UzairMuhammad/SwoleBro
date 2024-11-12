@@ -1,0 +1,65 @@
+{
+  "name": "Chest & Legs",
+  "date": "2024-02-12",
+  "exercises": [
+    {
+      "type": "strength",
+      "name": "bench press",
+      "bodypart": "chest",
+      "sets": 5,
+      "reps": 5,
+      "weight": 135
+    },
+    {
+      "type": "strength",
+      "name": "leg press",
+      "bodypart": "quads",
+      "sets": 3,
+      "reps": 15,
+      "weight": 135
+    },
+    {
+      "type": "cardio",
+      "name": "running",
+      "sets": 3,
+      "duration_seconds": 1800
+    },
+    {
+      "type": "weights",
+      "name": "bicep curls",
+      "bodypart": "biceps",
+      "sets": 4,
+      "reps": 12,
+      "weight": 30
+    },
+    {
+      "type": "distance_duration",
+      "name": "cycling",
+      "bodypart": null,
+      "sets": 3,
+      "distance_miles": 10,
+      "duration_minutes": 45
+    },
+    {
+      "type": "duration_only",
+      "name": "plank",
+      "bodypart": "core",
+      "sets": 3,
+      "duration_seconds": 60
+    },
+    {
+      "type": "reps_only",
+      "name": "push-ups",
+      "bodypart": "chest",
+      "sets": 4,
+      "reps": 20
+    },
+    {
+      "type": "stretch",
+      "name": "hamstring stretch",
+      "bodypart": "legs",
+      "sets": 2,
+      "duration_seconds": 30
+    }
+  ]
+}
